@@ -1,0 +1,22 @@
+{
+  "campañas": [
+    {
+      "nombre": "Campaña 1",
+      "respuestas": 120,
+      "clics": 80,
+      "segmento": "Estudiantes"
+    },
+    {
+      "nombre": "Campaña 2",
+      "respuestas": 200,
+      "clics": 150,
+      "segmento": "Profesionales"
+    },
+    {
+      "nombre": "Campaña 3",
+      "respuestas": 90,
+      "clics": 40,
+      "segmento": "Empresarios"
+    }
+  ]
+}
