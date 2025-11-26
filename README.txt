@@ -1,5 +1,5 @@
 Proyecto: Dashboard de Campañas de Marketing
-GitHub Pages — [enlace a tu demo]
+GitHub Pages — https://felipejenoy.github.io/Dashboard-Campa-as/
 Tecnologías: JavaScript, HTML, CSS, Chart.js, GitHub Pages
 
 Desarrollé un dashboard interactivo en JavaScript para visualizar métricas de campañas simuladas (respuestas, clics y segmentación).
